@@ -11,7 +11,8 @@ This project provides a RESTful API for managing Pokemon data and user Box entri
 Box endpoints require authentication via Bearer token in the Authorization header:
 
 ```
-Authorization: Bearer <JWT_TOKEN>
+Authorization: Bearer <eyJhbGciOiJIUzI1NiJ9.eyJwZW5ua2V5IjoiY2FueiIsImlhdCI6MTc1OTA5ODIxOCwiaXNzIjoiZWR1OnVwZW5uOnNlYXM6Y2lzMTk2MiIsImF1ZCI6ImVkdTp1cGVubjpzZWFzOmNpczE5NjIiLCJleHAiOjE3NjQyODIyMTh9.06H_8FYXlFjsLfMKXlnXreWSiTtoLciRDVIIJJ2gV2c>
+
 ```
 
 ## API Endpoints
